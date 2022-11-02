@@ -1,4 +1,4 @@
-# Application-Engineering-and-Development--FINAL-PROJECT 
+# INFO 5100 - Application Engineering and Development: Emergency Healthcare System (FINAL-PROJECT)
 ## Topic: AED (INFO 5100) - FINAL PROJECT [Emergency Care System]
 
 ![Medical prescription-amico](https://user-images.githubusercontent.com/46862684/197088561-692a642c-1b0f-4ed6-a052-8c06d27a8689.png)
